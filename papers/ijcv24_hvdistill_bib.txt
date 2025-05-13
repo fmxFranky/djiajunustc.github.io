@@ -1,0 +1,10 @@
+@article{zhang2024hvdistill,
+  title={Hvdistill: Transferring knowledge from images to point clouds via unsupervised hybrid-view distillation},
+  author={Zhang, Sha and Deng, Jiajun and Bai, Lei and Li, Houqiang and Ouyang, Wanli and Zhang, Yanyong},
+  journal={IJCV},
+  volume={132},
+  number={7},
+  pages={2585--2599},
+  year={2024},
+  publisher={Springer}
+}

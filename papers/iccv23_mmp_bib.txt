@@ -1,0 +1,7 @@
+@inproceedings{mao2023masked,
+  title={Masked motion predictors are strong 3d action representation learners},
+  author={Mao, Yunyao and Deng, Jiajun and Zhou, Wengang and Fang, Yao and Ouyang, Wanli and Li, Houqiang},
+  booktitle={ICCV},
+  pages={10181--10191},
+  year={2023}
+}

@@ -1,0 +1,7 @@
+@inproceedings{chu2024rayformer,
+  title={RayFormer: Improving Query-Based Multi-Camera 3D Object Detection via Ray-Centric Strategies},
+  author={Chu, Xiaomeng and Deng, Jiajun and You, Guoliang and Duan, Yifan and Li, Yao and Zhang, Yanyong},
+  booktitle={ACM MM},
+  pages={4620--4629},
+  year={2024}
+}

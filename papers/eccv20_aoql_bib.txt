@@ -1,0 +1,8 @@
+@inproceedings{chen2020adaptive,
+  title={Adaptive offline quintuplet loss for image-text matching},
+  author={Chen, Tianlang and Deng, Jiajun and Luo, Jiebo},
+  booktitle={ECCV},
+  pages={549--565},
+  year={2020},
+  organization={Springer}
+}

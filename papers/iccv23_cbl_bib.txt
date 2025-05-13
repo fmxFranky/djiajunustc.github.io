@@ -1,0 +1,7 @@
+@inproceedings{yin2023cyclic,
+  title={Cyclic-bootstrap labeling for weakly supervised object detection},
+  author={Yin, Yufei and Deng, Jiajun and Zhou, Wengang and Li, Li and Li, Houqiang},
+  booktitle={ICCV},
+  pages={7008--7018},
+  year={2023}
+}

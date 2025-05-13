@@ -1,0 +1,6 @@
+@article{deng2024poifusion,
+  title={PoIFusion: multi-modal 3D object detection via fusion at points of interest},
+  author={Deng, Jiajun and Zhang, Sha and Dayoub, Feras and Ouyang, Wanli and Zhang, Yanyong and Reid, Ian},
+  journal={arXiv preprint arXiv:2403.09212},
+  year={2024}
+}

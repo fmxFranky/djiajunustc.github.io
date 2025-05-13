@@ -1,0 +1,9 @@
+@inproceedings{deng2021voxel,
+  title={Voxel r-cnn: Towards high performance voxel-based 3d object detection},
+  author={Deng, Jiajun and Shi, Shaoshuai and Li, Peiwei and Zhou, Wengang and Zhang, Yanyong and Li, Houqiang},
+  booktitle={AAAI},
+  volume={35},
+  number={2},
+  pages={1201--1209},
+  year={2021}
+}

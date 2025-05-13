@@ -1,0 +1,8 @@
+@inproceedings{zhang2024agent3d,
+  title={Agent3d-zero: An agent for zero-shot 3d understanding},
+  author={Zhang, Sha and Huang, Di and Deng, Jiajun and Tang, Shixiang and Ouyang, Wanli and He, Tong and Zhang, Yanyong},
+  booktitle={ECCV},
+  pages={186--202},
+  year={2024},
+  organization={Springer}
+}

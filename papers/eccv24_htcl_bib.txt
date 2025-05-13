@@ -1,0 +1,8 @@
+@inproceedings{li2024hierarchical,
+  title={Hierarchical temporal context learning for camera-based semantic scene completion},
+  author={Li, Bohan and Deng, Jiajun and Zhang, Wenyao and Liang, Zhujin and Du, Dalong and Jin, Xin and Zeng, Wenjun},
+  booktitle={ECCV},
+  pages={131--148},
+  year={2024},
+  organization={Springer}
+}

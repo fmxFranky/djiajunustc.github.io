@@ -1,0 +1,8 @@
+@article{mao2025hbox,
+  title={$$$\backslash$hbox $\{$I$\}$\^{} 2$$ MD: 3D Action Representation Learning with Inter-and Intra-Modal Mutual Distillation},
+  author={Mao, Yunyao and Deng, Jiajun and Zhou, Wengang and Lu, Zhenbo and Ouyang, Wanli and Li, Houqiang},
+  journal={IJCV},
+  pages={1--18},
+  year={2025},
+  publisher={Springer}
+}

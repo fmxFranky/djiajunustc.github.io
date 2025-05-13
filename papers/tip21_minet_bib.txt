@@ -1,0 +1,9 @@
+@article{deng2021minet,
+  title={MINet: Meta-learning instance identifiers for video object detection},
+  author={Deng, Jiajun and Pan, Yingwei and Yao, Ting and Zhou, Wengang and Li, Houqiang and Mei, Tao},
+  journal={TIP},
+  volume={30},
+  pages={6879--6891},
+  year={2021},
+  publisher={IEEE}
+}

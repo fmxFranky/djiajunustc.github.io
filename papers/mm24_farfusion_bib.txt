@@ -1,0 +1,7 @@
+@inproceedings{li2024farfusion,
+  title={FARFusion V2: A Geometry-based Radar-Camera Fusion Method on the Ground for Roadside Far-Range 3D Object Detection},
+  author={Li, Yao and Deng, Jiajun and Xiao, Yuxuan and Wang, Yingjie and Chu, Xiaomeng and Ji, Jianmin and Zhang, Yanyong},
+  booktitle={ACM MM},
+  pages={8421--8430},
+  year={2024}
+}

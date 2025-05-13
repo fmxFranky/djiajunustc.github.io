@@ -1,0 +1,7 @@
+@inproceedings{yi2023invariant,
+  title={Invariant training 2d-3d joint hard samples for few-shot point cloud recognition},
+  author={Yi, Xuanyu and Deng, Jiajun and Sun, Qianru and Hua, Xian-Sheng and Lim, Joo-Hwee and Zhang, Hanwang},
+  booktitle={ICCV},
+  pages={14463--14474},
+  year={2023}
+}

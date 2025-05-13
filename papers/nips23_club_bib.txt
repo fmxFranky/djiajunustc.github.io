@@ -1,0 +1,8 @@
+@article{wang2023club,
+  title={Club: Cluster meets bev for lidar-based 3d object detection},
+  author={Wang, Yingjie and Deng, Jiajun and Hou, Yuenan and Li, Yao and Zhang, Yu and Ji, Jianmin and Ouyang, Wanli and Zhang, Yanyong},
+  journal={NeurIPS},
+  volume={36},
+  pages={40438--40449},
+  year={2023}
+}

@@ -1,0 +1,9 @@
+@article{zhu2022vpfnet,
+  title={VPFNet: Improving 3D object detection with virtual point based LiDAR and stereo data fusion},
+  author={Zhu, Hanqi and Deng, Jiajun and Zhang, Yu and Ji, Jianmin and Mao, Qiuyu and Li, Houqiang and Zhang, Yanyong},
+  journal={TMM},
+  volume={25},
+  pages={5291--5304},
+  year={2022},
+  publisher={IEEE}
+}

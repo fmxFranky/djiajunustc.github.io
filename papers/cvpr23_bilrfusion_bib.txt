@@ -1,0 +1,7 @@
+@inproceedings{wang2023bi,
+  title={Bi-lrfusion: Bi-directional lidar-radar fusion for 3d dynamic object detection},
+  author={Wang, Yingjie and Deng, Jiajun and Li, Yao and Hu, Jinshui and Liu, Cong and Zhang, Yu and Ji, Jianmin and Ouyang, Wanli and Zhang, Yanyong},
+  booktitle={CVPR},
+  pages={13394--13403},
+  year={2023}
+}
