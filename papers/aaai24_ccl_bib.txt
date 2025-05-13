@@ -1,0 +1,9 @@
+@inproceedings{wang2024cycle,
+  title={Cycle-consistency learning for captioning and grounding},
+  author={Wang, Ning and Deng, Jiajun and Jia, Mingbo},
+  booktitle={AAAI},
+  volume={38},
+  number={6},
+  pages={5535--5543},
+  year={2024}
+}

@@ -1,0 +1,8 @@
+@article{mao2023clip4hoi,
+  title={Clip4hoi: Towards adapting clip for practical zero-shot hoi detection},
+  author={Mao, Yunyao and Deng, Jiajun and Zhou, Wengang and Li, Li and Fang, Yao and Li, Houqiang},
+  journal={NeurIPS},
+  volume={36},
+  pages={45895--45906},
+  year={2023}
+}

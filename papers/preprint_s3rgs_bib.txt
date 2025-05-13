@@ -1,0 +1,6 @@
+@article{zheng2025s3r,
+  title={S3R-GS: Streamlining the Pipeline for Large-Scale Street Scene Reconstruction},
+  author={Zheng, Guangting and Deng, Jiajun and Chu, Xiaomeng and Yuan, Yu and Li, Houqiang and Zhang, Yanyong},
+  journal={arXiv preprint arXiv:2503.08217},
+  year={2025}
+}

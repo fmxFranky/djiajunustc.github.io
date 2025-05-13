@@ -1,0 +1,6 @@
+@article{chu2023oa,
+  title={OA-BEV: Bringing object awareness to bird's-eye-view representation for multi-camera 3D object detection},
+  author={Chu, Xiaomeng and Deng, Jiajun and Zhao, Yuan and Ji, Jianmin and Zhang, Yu and Li, Houqiang and Zhang, Yanyong},
+  journal={arXiv preprint arXiv:2301.05711},
+  year={2023}
+}

@@ -1,0 +1,10 @@
+@article{deng2021multi,
+  title={From multi-view to hollow-3D: Hallucinated hollow-3D R-CNN for 3D object detection},
+  author={Deng, Jiajun and Zhou, Wengang and Zhang, Yanyong and Li, Houqiang},
+  journal={TCSVT},
+  volume={31},
+  number={12},
+  pages={4722--4734},
+  year={2021},
+  publisher={IEEE}
+}

@@ -1,0 +1,9 @@
+@article{deng2020single,
+  title={Single shot video object detector},
+  author={Deng, Jiajun and Pan, Yingwei and Yao, Ting and Zhou, Wengang and Li, Houqiang and Mei, Tao},
+  journal={TMM},
+  volume={23},
+  pages={846--858},
+  year={2020},
+  publisher={IEEE}
+}

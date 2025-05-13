@@ -1,0 +1,7 @@
+@inproceedings{deng2019relation,
+  title={Relation distillation networks for video object detection},
+  author={Deng, Jiajun and Pan, Yingwei and Yao, Ting and Zhou, Wengang and Li, Houqiang and Mei, Tao},
+  booktitle={ICCV},
+  pages={7023--7032},
+  year={2019}
+}

@@ -1,0 +1,10 @@
+@article{deng2023transvg++,
+  title={Transvg++: End-to-end visual grounding with language conditioned vision transformer},
+  author={Deng, Jiajun and Yang, Zhengyuan and Liu, Daqing and Chen, Tianlang and Zhou, Wengang and Zhang, Yanyong and Li, Houqiang and Ouyang, Wanli},
+  journal={TPAMI},
+  volume={45},
+  number={11},
+  pages={13636--13652},
+  year={2023},
+  publisher={IEEE}
+}

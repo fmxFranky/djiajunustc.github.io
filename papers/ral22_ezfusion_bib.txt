@@ -1,0 +1,10 @@
+@article{li2022mathsf,
+  title={$$\{$$\backslash$mathsf $\{$EZFusion$\}$$\}$ $: A Close Look at the Integration of LiDAR, Millimeter-Wave Radar, and Camera for Accurate 3D Object Detection and Tracking},
+  author={Li, Yao and Deng, Jiajun and Zhang, Yu and Ji, Jianmin and Li, Houqiang and Zhang, Yanyong},
+  journal={RAL},
+  volume={7},
+  number={4},
+  pages={11182--11189},
+  year={2022},
+  publisher={IEEE}
+}

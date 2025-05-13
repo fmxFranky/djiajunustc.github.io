@@ -1,0 +1,7 @@
+@inproceedings{shu20233dppe,
+  title={3dppe: 3d point positional encoding for transformer-based multi-camera 3d object detection},
+  author={Shu, Changyong and Deng, Jiajun and Yu, Fisher and Liu, Yifan},
+  booktitle={ICCV},
+  pages={3580--3589},
+  year={2023}
+}

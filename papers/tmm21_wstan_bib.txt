@@ -1,0 +1,9 @@
+@article{wang2021weakly,
+  title={Weakly supervised temporal adjacent network for language grounding},
+  author={Wang, Yuechen and Deng, Jiajun and Zhou, Wengang and Li, Houqiang},
+  journal={TMM},
+  volume={24},
+  pages={3276--3286},
+  year={2021},
+  publisher={IEEE}
+}
